@@ -1,1 +1,4 @@
-# hello-world-project
+## hello-world-project
+## technologies used:
+-HTML
+-CSS
